@@ -1,0 +1,14 @@
+# LaTeX build artifacts (o .pdf final vai para o git, estes não)
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+# Python
+__pycache__/
+*.pyc
+.venv/
+# Dados brutos / arquivos grandes (via OneDrive, fora do git)
+Brutos/
+dados-brutos/
+*.opju
