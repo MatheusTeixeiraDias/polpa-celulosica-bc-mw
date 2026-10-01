@@ -1,49 +1,45 @@
 amostra,banda,pos_cm-1,altura,altura_norm_1032,deteccao
 Bagaço,nuOH 3340,3348,0.002737,0.5050,sim
 Bagaço,CH 2920,2919,0.000766,0.1413,sim
-Bagaço,C=O éster 1740,n/d,-0.000270,-0.0499,nao
+Bagaço,C=O éster 1740,n/d,-0.000391,-0.0722,nao
 Bagaço,H2O 1640,1641,0.001734,0.3198,sim
 Bagaço,arom 1595,1610,0.000180,0.0332,sim
 Bagaço,arom 1510,1512,0.000220,0.0406,sim
 Bagaço,CH2 1430,1422,0.000300,0.0553,sim
 Bagaço,CH def 1372,1370,0.000255,0.0470,sim
 Bagaço,G + COAc 1245,1236,0.000495,0.0913,sim
-Bagaço,C-O-C 1160,n/d,-0.000348,-0.0642,nao
 Bagaço,C-O cel 1032,1033,0.005421,1.0000,sim
 Bagaço,anomérico 897,896,0.000140,0.0258,sim
 Acetossolve,nuOH 3340,3333,0.004241,0.4134,sim
 Acetossolve,CH 2920,2915,0.000750,0.0731,sim
-Acetossolve,C=O éster 1740,1726,0.000994,0.0968,sim
+Acetossolve,C=O éster 1740,1726,0.000702,0.0684,sim
 Acetossolve,H2O 1640,1644,0.000847,0.0825,sim
 Acetossolve,arom 1595,1601,0.000205,0.0200,sim
 Acetossolve,arom 1510,n/d,-0.000088,-0.0086,nao
 Acetossolve,CH2 1430,1428,0.001120,0.1091,sim
 Acetossolve,CH def 1372,1366,0.000335,0.0327,sim
 Acetossolve,G + COAc 1245,1239,0.001146,0.1117,sim
-Acetossolve,C-O-C 1160,n/d,-0.000320,-0.0312,nao
 Acetossolve,C-O cel 1032,1031,0.010259,1.0000,sim
 Acetossolve,anomérico 897,899,0.000853,0.0832,sim
 Formossolve,nuOH 3340,3331,0.002944,0.3273,sim
 Formossolve,CH 2920,2916,0.001420,0.1579,sim
-Formossolve,C=O éster 1740,1715,0.000827,0.0919,sim
+Formossolve,C=O éster 1740,1715,0.000786,0.0874,sim
 Formossolve,H2O 1640,1641,0.000250,0.0278,sim
 Formossolve,arom 1595,1601,0.000639,0.0711,sim
 Formossolve,arom 1510,1513,0.000175,0.0194,sim
 Formossolve,CH2 1430,1428,0.000691,0.0768,sim
 Formossolve,CH def 1372,1363,0.000465,0.0517,sim
 Formossolve,G + COAc 1245,1231,0.000374,0.0415,sim
-Formossolve,C-O-C 1160,n/d,0.000075,0.0083,nao
 Formossolve,C-O cel 1032,1028,0.008996,1.0000,sim
 Formossolve,anomérico 897,901,0.000308,0.0343,sim
 Acetossolve branq.,nuOH 3340,3334,0.011578,0.5232,sim
 Acetossolve branq.,CH 2920,2899,0.002286,0.1033,sim
-Acetossolve branq.,C=O éster 1740,n/d,-0.000625,-0.0282,nao
+Acetossolve branq.,C=O éster 1740,n/d,-0.000713,-0.0322,nao
 Acetossolve branq.,H2O 1640,1640,0.002165,0.0978,sim
 Acetossolve branq.,arom 1595,1610,0.000118,0.0053,sim
 Acetossolve branq.,arom 1510,n/d,-0.000899,-0.0406,nao
 Acetossolve branq.,CH2 1430,1428,0.002461,0.1112,sim
 Acetossolve branq.,CH def 1372,1365,0.000833,0.0377,sim
 Acetossolve branq.,G + COAc 1245,1263,0.000638,0.0288,sim
-Acetossolve branq.,C-O-C 1160,1159,0.000643,0.0290,sim
 Acetossolve branq.,C-O cel 1032,1028,0.022130,1.0000,sim
 Acetossolve branq.,anomérico 897,897,0.002182,0.0986,sim
