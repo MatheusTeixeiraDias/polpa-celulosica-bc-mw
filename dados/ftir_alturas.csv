@@ -43,3 +43,14 @@ Acetossolve branq.,CH def 1372,1365,0.000833,0.0377,sim
 Acetossolve branq.,G + COAc 1245,1263,0.000638,0.0288,sim
 Acetossolve branq.,C-O cel 1032,1028,0.022130,1.0000,sim
 Acetossolve branq.,anomérico 897,897,0.002182,0.0986,sim
+Formossolve branq.,nuOH 3340,3330,0.005257,0.3006,sim
+Formossolve branq.,CH 2920,2900,0.001104,0.0632,sim
+Formossolve branq.,C=O éster 1740,n/d,-0.000236,-0.0135,nao
+Formossolve branq.,H2O 1640,1641,0.000989,0.0565,sim
+Formossolve branq.,arom 1595,n/d,-0.000015,-0.0008,nao
+Formossolve branq.,arom 1510,n/d,-0.000519,-0.0297,nao
+Formossolve branq.,CH2 1430,1428,0.001441,0.0824,sim
+Formossolve branq.,CH def 1372,1365,0.000499,0.0285,sim
+Formossolve branq.,G + COAc 1245,n/d,0.000015,0.0009,nao
+Formossolve branq.,C-O cel 1032,1028,0.017486,1.0000,sim
+Formossolve branq.,anomérico 897,897,0.001201,0.0687,sim

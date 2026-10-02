@@ -33,6 +33,7 @@ SAMPLES = {
     "Acetossolve": "Polpa_BC_Acetossolve.csv",
     "Formossolve": "Polpa_BC_Formossolve.csv",
     "Acetossolve branq.": "Polpa_BC_Acetossolve_Branqueada.csv",
+    "Formossolve branq.": "Polpa_BC_Formossolve_Branqueada.csv",
 }
 
 # nome, janela da banda (cm-1), ref1 (cm-1), ref2 (cm-1)

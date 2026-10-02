@@ -35,7 +35,8 @@ SAMPLES = [
     ("Bagaco_Cana.csv", "Bagaço de cana"),
     ("Polpa_BC_Acetossolve.csv", "Polpa acetossolve (rend. 66,4%)"),
     ("Polpa_BC_Formossolve.csv", "Polpa formossolve (rend. 53,6%)"),
-    ("Polpa_BC_Acetossolve_Branqueada.csv", "Acetossolve, branqueada (Q + P)"),
+    ("Polpa_BC_Acetossolve_Branqueada.csv", "Acetossolve, branqueada (Q + P, rend. 72,7%)"),
+    ("Polpa_BC_Formossolve_Branqueada.csv", "Formossolve, branqueada (Q + P)"),
 ]
 
 
